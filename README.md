@@ -6,4 +6,11 @@ Eventually I landed on https://open.kattis.com/ and as my life felt somewhat emp
 
 This repo contains my submissions.
 
-It is probably better to just go back to reading the book :)
+It'd' probably better to just go back to reading the book, but it is fun writing code :)
+
+the batch file `e.bat` takes one argument. It will pipe the `<argument>.txt` through `<argument>.py`.
+This helps mimick the ways tests are run on open.kattis.com.
+
+In some cases there is no `*.txt`-file. Typically that's because the input is a single line, and I just typed/pasted that in when running.
+
+Note that I've been somewhat lazy and cherry picked the easy problems...
